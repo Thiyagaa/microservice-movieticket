@@ -3,6 +3,7 @@
 location service.
 events service.
 movies service.
+booking service
 theatre service.
 seatlayout service.
 payment service.
@@ -11,4 +12,6 @@ map service.
 notification service.
 authentication service.
 administration service.
-history service
+history service.
+rating service.
+analytics service.
